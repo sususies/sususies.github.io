@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://https://sususies.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-05-08T12:32:12.563Z</updated>
+    <title>sususy 的小窝</title>
+    <updated>2021-05-08T13:35:53.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://https://sususies.github.io"/>
     <link rel="self" href="https://https://sususies.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>Hello World !</subtitle>
     <logo>https://https://sususies.github.io/images/avatar.png</logo>
     <icon>https://https://sususies.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, sususy 的小窝</rights>
     <entry>
         <title type="html"><![CDATA[TEST]]></title>
         <id>https://https://sususies.github.io/post/test/</id>
@@ -17,6 +17,29 @@
         </link>
         <updated>2021-05-08T11:57:20.000Z</updated>
         <content type="html"><![CDATA[<p>test</p>
+<p><strong>TEST</strong></p>
+<p><s>Hello World !</s></p>
+<p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mo>=</mo><mfrac><mn>7</mn><mn>6</mn></mfrac></mrow><annotation encoding="application/x-tex">\dfrac{1}{2}+\dfrac{2}{3}=\dfrac{7}{6}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:2.00744em;vertical-align:-0.686em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.32144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">2</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:2.00744em;vertical-align:-0.686em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.32144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">3</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:2.00744em;vertical-align:-0.686em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.32144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">6</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">7</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span></p>
+<ol>
+<li>apple</li>
+<li>bnana</li>
+<li>orange</li>
+</ol>
+<ul>
+<li>apple</li>
+<li>bnana</li>
+<li>orange</li>
+</ul>
+<pre><code class="language-cpp">#include&lt;iostream&gt;
+using namespace std;
+int main()
+[
+    int a,b;
+    cin&gt;&gt;a&gt;&gt;b;
+    cout&lt;&lt;a+b&lt;&lt;endl;
+    return 0;
+]
+</code></pre>
 ]]></content>
     </entry>
 </feed>
