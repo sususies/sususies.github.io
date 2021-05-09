@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sususies.github.io</id>
     <title>sususy 的小窝</title>
-    <updated>2021-05-08T23:19:13.000Z</updated>
+    <updated>2021-05-09T00:23:40.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sususies.github.io"/>
     <link rel="self" href="https://sususies.github.io/atom.xml"/>
@@ -17,8 +17,19 @@
         </link>
         <updated>2021-05-08T11:57:20.000Z</updated>
         <content type="html"><![CDATA[<p>test</p>
-<p><strong>TEST</strong></p>
-<p><s>Hello World !</s></p>
+<h1 id="test">TEST</h1>
+<h2 id="test-2">TEST</h2>
+<h3 id="test-3">TEST</h3>
+<h4 id="test-4">TEST</h4>
+<h5 id="test-5">TEST</h5>
+<h6 id="test-6">TEST</h6>
+<hr>
+<p><strong>TEST</strong><br>
+<em>TEST</em><br>
+<s>TEST</s><br>
+<u>TEST</u></p>
+<p><code>Yes</code><br>
+<code>No</code></p>
 <p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>+</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mo>=</mo><mfrac><mn>7</mn><mn>6</mn></mfrac></mrow><annotation encoding="application/x-tex">\dfrac{1}{2}+\dfrac{2}{3}=\dfrac{7}{6}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:2.00744em;vertical-align:-0.686em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.32144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">2</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:2.00744em;vertical-align:-0.686em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.32144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">3</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">2</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:2.00744em;vertical-align:-0.686em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.32144em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">6</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord">7</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span></p>
 <ol>
 <li>apple</li>
@@ -30,16 +41,22 @@
 <li>bnana</li>
 <li>orange</li>
 </ul>
+<blockquote>
+<p>你聪明的，告诉我，我们的日子为什么一去不复返呢？</p>
+</blockquote>
+<p><a href="https://sususies.github.io">My Blog</a><br>
+<a href="mailto:1687222944@qq.com">Mail</a></p>
 <pre><code class="language-cpp">#include&lt;iostream&gt;
 using namespace std;
 int main()
-[
+{
     int a,b;
     cin&gt;&gt;a&gt;&gt;b;
     cout&lt;&lt;a+b&lt;&lt;endl;
     return 0;
-]
+}
 </code></pre>
+<figure data-type="image" tabindex="1"><img src="https://api.ixiaowai.cn/api/api.php" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
