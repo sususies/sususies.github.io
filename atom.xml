@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://sususies.github.io</id>
+    <title>sususies 的博客</title>
+    <updated>2024-05-12T06:30:11.281Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://sususies.github.io"/>
+    <link rel="self" href="https://sususies.github.io/atom.xml"/>
+    <logo>https://sususies.github.io/images/avatar.png</logo>
+    <icon>https://sususies.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, sususies 的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[备用]]></title>
+        <id>https://sususies.github.io/post/bei-yong/</id>
+        <link href="https://sususies.github.io/post/bei-yong/">
+        </link>
+        <updated>2024-03-16T11:05:09.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="firefox-插件">Firefox 插件</h2>
+<p><a href="https://sususies.github.io/post-images/%7Be11e452a-83bb-444c-a05a-f93be8e2024d%7D.xpi">Ghelper</a></p>
+<p><a href="https://sususies.github.io/post-images/cpmanager@mozillaonline.com.xpi">附加组件管理器</a></p>
+<p><a href="https://sususies.github.io/post-images/tabtweak@mozillaonline.com.xpi">标签页优化</a></p>
+<p><a href="https://sususies.github.io/post-images/easyscreenshot@mozillaonline.com.xpi">网页截图</a></p>
+<h2 id="windows-磁盘空间探测器">Windows 磁盘空间探测器</h2>
+<p><a href="https://sourceforge.net/projects/spacesniffer/">SpaceSniffer</a></p>
+]]></content>
+    </entry>
+</feed>
